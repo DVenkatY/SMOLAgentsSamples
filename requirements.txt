@@ -1,0 +1,7 @@
+smolagents[tools]
+duckduckgo-search
+python-dotenv
+smolagents[telemetry]
+opentelemetry-sdk
+openinference-instrumentation-smolagents
+opentelemetry-exporter-otlp
